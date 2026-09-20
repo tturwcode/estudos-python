@@ -1,4 +1,14 @@
-# Estudos de Python - 2026
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
+
+
+
+![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
+
+
+
+# Estudos de Python — 2026
+
 
 Repositório criado para reunir pequenos projetos desenvolvidos durante meus estudos de Python.
 
