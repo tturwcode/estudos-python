@@ -7,6 +7,24 @@
 
 
 
+
+![Last Commit](https://img.shields.io/github/last-commit/tturwcode/estudos-python)
+
+
+
+
+![Repo Size](https://img.shields.io/github/repo-size/tturwcode/estudos-python)
+
+
+
+
+![Stars](https://img.shields.io/github/stars/tturwcode/estudos-python?style=social)
+
+
+
+
+
+
 # Estudos de Python — 2026
 
 
