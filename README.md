@@ -94,7 +94,7 @@ ___
   
 ---
 
-![Skills](https://skillicons.dev/icons?i=python)
+![Skills](https://skillicons.dev/icons?i=python) ![Skills](https://skillicons.dev/icons?i=python,github)
 
 
 
