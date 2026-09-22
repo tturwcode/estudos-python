@@ -1,24 +1,20 @@
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3.x-blue)   ![Status](https://img.shields.io/badge/status-em%20andamento-yellow) ![Last Commit](https://img.shields.io/github/last-commit/tturwcode/estudos-python) ![Repo Size](https://img.shields.io/github/repo-size/tturwcode/estudos-python) ![Stars](https://img.shields.io/github/stars/tturwcode/estudos-python?style=social)
 
 
 
 
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
 
 
 
 
-![Last Commit](https://img.shields.io/github/last-commit/tturwcode/estudos-python)
 
 
 
 
-![Repo Size](https://img.shields.io/github/repo-size/tturwcode/estudos-python)
 
 
 
 
-![Stars](https://img.shields.io/github/stars/tturwcode/estudos-python?style=social)
 
 
 
