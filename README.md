@@ -98,8 +98,6 @@ ___
 
 ## Tecnologias e conceitos praticados
 
-![Skills](https://skillicons.dev/icons?i=python
-
 - Python
 - Variáveis e tipos de dados
 - Estruturas condicionais: `if`, `elif` e `else`
