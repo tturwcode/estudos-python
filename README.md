@@ -98,7 +98,7 @@ ___
 
 ## Tecnologias e conceitos praticados
 
-![Skills](https://skillicons.dev/icons?i=python,github)
+![Skills](https://skillicons.dev/icons?i=python
 
 - Python
 - Variáveis e tipos de dados
