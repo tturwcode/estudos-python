@@ -22,7 +22,6 @@
 
 
 # Estudos de Python
-
 ---
 
 
