@@ -23,6 +23,9 @@
 
 # Estudos de Python
 
+---
+
+
 ## Projetos
 
 - [Calculadora](projetos/Calculadora/calculadora.py)
