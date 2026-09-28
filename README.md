@@ -25,7 +25,7 @@
 ---
 
 
-## Projetos
+## 📁 Projetos
 
 - [Calculadora](projetos/Calculadora/calculadora.py)
 - [Calendário](projetos/Calendário/calendario.py)
