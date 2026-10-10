@@ -10,10 +10,10 @@ import qrcode                # biblioteca externa que gera QR Codes
 
 # Banner de título, em vermelho vivo
 banner = pyfiglet.figlet_format("QR Code Generator", font="slant")
-print(f"\033[1;38;2;255;40;40m{banner}\n")
+print(f"\033[1;38;2;255;0;0m{banner}\n")
 
 # Pede ao usuário o texto ou link que vai virar QR Code
-dados = input("\033[1;34m\n[+] Digite um link:\033[0m ")
+dados = input("\033[1;38;2;0;150;255m\n[+] Digite um link:\033[0m ")
 
 print("\033[1;35m\n[+] Gerando QR Code...")
 sleep(2)  # só efeito visual, não afeta a geração do código
